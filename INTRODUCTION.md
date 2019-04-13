@@ -1,5 +1,5 @@
 # doMemorize
-이해하지 못하면 외워라! 웹 개발자에게 필요한 내용을 외우기 위한 저장소 for Junior Software Engineer.
+이해하지 못하면 외워라! 웹 개발에 필요한 내용을 외우기 위한 저장소 for Junior Web FE Engineer.
 
 ## V0.0.1 - 2019. 04. 13
 
