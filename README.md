@@ -1,5 +1,5 @@
 # doMemorize 🧠
-이해하지 못하면 외워라! for Junior Software Engineer.
+이해하지 못하면 외워라! for Junior Web FE Engineer.
 
 ## ⁉ 들어가기 전에
 
