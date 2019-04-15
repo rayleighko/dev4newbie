@@ -13,71 +13,104 @@
 
 ## 목차(예상)
 
-* HTML
-  * HTML's History
-  * HTML5
-  * JSX
+* [PS(Problem Solving)](#)
 
-* CSS
-  * CSS's History
-  * SCSS
-  * Styled Components
+* [CS(Computer Science)](#)
+  * Common(작성중)
+    * OOP
+    * Restful API
+    * Git
+    * Functional Programming
+    * TDD
+    * DDD
+  * Data Structure(작성중)
+    * Array
+    * Linked List
+    * Stack
+    * Queue
+    * Tree
+    * Graph
+    * Hash Table
+  * Network(작성중)
+    * Protocols
+      * TCP
+        * TCP's History
+        * TCP header structure
+        * TCP
+      * HTTP  
+        * HTTP's History
+        * HTTP header structure
+        * HTTPS
+        * TLS
+  * Operating System(작성중)
+    * Process
+    * Single-Thread
+    * Multi-Thread
+    * Scheduler
+    * CPU Scheduling
+    * Sync vs Async
+    * Critical Section
+    * Memory Management
+    * Virtual Memory
+    * Caching
+  * Database(작성중)
+    * Index
+    * Normalization
+    * Transaction
+    * MySQL
+    * NoSQL
+  * Design Pattern(작성중)
+    * MVC
+    * Factory
 
-* Javascript
-  * ES3
-  * ES5
-  * ES6
-  * ES7
-  * ES8, ES9
-  * Server Side Javascript(Node)
-  * Typescript
-    * Basic
-    * Interface
-    * Class
-    * Function
-  * RxJS
+* [Web](#)
+  * HTML(작성중)
+    * HTML's History
+    * HTML5
+    * JSX
+  * CSS(작성중)
+    * CSS's History
+    * SCSS
+    * Styled Components
+  * Javascript(작성중)
+    * ES3
+    * ES5
+    * ES6
+    * ES7
+    * ES8, ES9
+    * Server Side Javascript(Node)
+    * Typescript
+      * Basic
+      * Interface
+      * Class
+      * Function
+    * RxJS
+  * Advanced Typescript(작성중)
+    * Directory Structure
+    * Generic
+    * Enum
+    * Type Inference
+    * Type Compatibility
+  * Web UI Tools(작성중)
+    * React
+    * Vue
+    * Angular
+    * State Management(Redux)
+  * Advanced React(작성중)
+    * Functional Component
+    * React hooks
+    * Server Side Rendering with Next.js
+    * Route Masking with Next.js
+    * Lazy Import(Module, Component) with Next.js
+  * Web Browser(작성중)
+    * Chrome
+      * Headless Chrome(Puppeteer)
+      * Dev tools
+    * Firefox
+    * Parsing Flow
+  * Advanced Chrome Dev tools(작성중)
 
-* Advanced Typescript
-  * Directory Structure
-  * Generic
-  * Enum
-  * Type Inference
-  * Type Compatibility
-
-* Web UI Tools
-  * React
-  * Vue
-  * Angular
-  * State Management(Redux)
-
-* Advanced React
-  * Functional Component
-  * React hooks
-  * Server Side Rendering with Next.js
-  * Route Masking with Next.js
-  * Lazy Import(Module, Component) with Next.js
-
-* Web Browser
-  * Chrome
-    * Headless Chrome(Puppeteer)
-    * Dev tools
-  * Firefox
-  * Parsing Flow
-
-* Advanced Chrome Dev tools
-
-* Protocols
-  * TCP
-    * TCP's History
-    * TCP header structure
-    * TCP
-  * HTTP  
-    * HTTP's History
-    * HTTP header structure
-    * HTTPS
-    * TLS
-
-* ETC.
+* [ETC.](#)
   * Web related Open source
   * AWS for FE
   * Docker
