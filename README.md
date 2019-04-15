@@ -13,9 +13,9 @@
 
 ## 목차(예상)
 
-* [PS(Problem Solving)](#)
+* [PS(Problem Solving)](PS/)
 
-* [CS(Computer Science)](#)
+* [CS(Computer Science)](CS/)
   * Common(작성중)
     * OOP
     * Restful API
@@ -33,15 +33,8 @@
     * Hash Table
   * Network(작성중)
     * Protocols
-      * TCP
-        * TCP's History
-        * TCP header structure
-        * TCP
-      * HTTP  
-        * HTTP's History
-        * HTTP header structure
-        * HTTPS
-        * TLS
+    * DNS
+    * Web Communication Flow
   * Operating System(작성중)
     * Process
     * Single-Thread
@@ -63,7 +56,7 @@
     * MVC
     * Factory
 
-* [Web](#)
+* [WEB](WEB/)
   * HTML(작성중)
     * HTML's History
     * HTML5
@@ -110,9 +103,13 @@
     * Parsing Flow
   * Advanced Chrome Dev tools(작성중)
 
-* [ETC.](#)
+* [ETC](ETC/)
+  * English
   * Web related Open source
-  * AWS for FE
+  * Cloud
+    * AWS for FE
+    * Azure for FE
+    * GCP for FE
   * Docker
   * NginX
   * [front-end-handbook-2019](https://frontendmasters.com/books/front-end-handbook/2019/)
