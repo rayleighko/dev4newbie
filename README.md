@@ -82,3 +82,4 @@
   * AWS for FE
   * Docker
   * NginX
+  * [front-end-handbook-2019](https://frontendmasters.com/books/front-end-handbook/2019/)
