@@ -11,7 +11,7 @@
 
 목차 나열 후 각 문서 작성, 문서 작성 이후에는 목차와 링크 연결(목차에 해당하는 디렉터리 이름의 README.md 파일).
 
-## 목차(예상)
+### 목차
 
 * [PS(Problem Solving)](PS/)
 * [CS(Computer Science)](CS/)
