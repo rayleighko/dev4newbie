@@ -1,9 +1,11 @@
-### 목차
+## 목차
 
-* Common(작성중)
+* [Common(작성중)](COMMON/)
+  * Google Search Guideline
+  * Git
+  * IDE
   * OOP
   * Restful API
-  * Git
   * Functional Programming
   * TDD
   * DDD
