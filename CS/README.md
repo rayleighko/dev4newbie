@@ -2,6 +2,7 @@
 
 * [Common(작성중)](COMMON/)
   * Google Search Guideline
+  * Shell
   * Git
   * IDE
   * OOP
