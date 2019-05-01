@@ -24,54 +24,6 @@
 
 ### 목차
 
-- [Common](COMMON/)
+- [대주제](대주제/)
 
-  - Google Search Guideline
-  - Shell
-  - Git
-  - Editor with IDE
-  - OOP
-  - Design pattern
-  - Restful API
-  - Functional Programming
-  - TDD
-  - DDD
-
-- [PS(Problem Solving)](PS/)
-
-  - Coding Test Tips(작성중)
-  - How to study Problem Solving?
-
-- [CS(Computer Science)](CS/)
-
-  - Data Structure(작성중)
-  - Network(작성중)
-  - Operating System(작성중)
-  - Database(작성중)
-  - Design Pattern(작성중)
-
-- [WEB](WEB/)
-
-  - HTML(작성중)
-  - CSS(작성중)
-  - Javascript(작성중)
-  - Advanced Typescript(작성중)
-  - Web UI Tools(작성중)
-  - Advanced React(작성중)
-  - Web Browser(작성중)
-  - Advanced Chrome Dev tools(작성중)
-
-- [SOFT SKILL](SOFTSKILL/)
-
-  - 글쓰기(작성중)
-  - 말하기(작성중)
-  - 동료를 위한 개발(작성중)
-
-- [ETC](ETC/)
-
-  - English(작성중)
-  - Web related Open source(작성중)
-  - Cloud for FE(작성중)
-  - Docker(작성중)
-  - NginX(작성중)
-  - front-end-handbook-2019
+  - 소주제
