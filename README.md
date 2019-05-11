@@ -27,15 +27,15 @@
 
 - [Common](COMMON/)
 
-- Troubleshooting(문제 추적)
-- Implementation(구현) - 작성중
-- Configuration Management(형상 관리) with Git - 작성중
-- Efficient Development(효율적인 개발) - 작성중
-- Object-oriented Programming(객체 지향 프로그래밍) - 작성중
-- Function-oriented Programming
-- Test-driven Development(테스트 주도 개발) - 작성중
-- Domain-driven Development(도메인 주도 개발) - 작성중
-- Application Programming Interface(API, 응용 프로그램 프로그래밍 인터페이스) - 작성중
+  - Troubleshooting(문제 추적)
+  - Implementation(구현) - 작성중
+  - Configuration Management(형상 관리) with Git - 작성중
+  - Efficient Development(효율적인 개발) - 작성중
+  - Object-oriented Programming(객체 지향 프로그래밍) - 작성중
+  - Function-oriented Programming
+  - Test-driven Development(테스트 주도 개발) - 작성중
+  - Domain-driven Development(도메인 주도 개발) - 작성중
+  - Application Programming Interface(API, 응용 프로그램 프로그래밍 인터페이스) - 작성중
 
 - [PS(Problem Solving)](PS/)
 
