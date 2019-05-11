@@ -51,6 +51,12 @@
   - Database - 작성중
   - Design Pattern - 작성중
 
+- [SOFT SKILL](SOFTSKILL/)
+
+  - 글쓰기 - 작성중
+  - 말하기 - 작성중
+  - 동료를 위한 개발 - 작성중
+
 - [WEB](WEB/)
 
   - HTML - 작성중
@@ -61,12 +67,6 @@
   - Advanced React - 작성중
   - Web Browser - 작성중
   - Advanced Chrome Dev tools - 작성중
-
-- [SOFT SKILL](SOFTSKILL/)
-
-  - 글쓰기 - 작성중
-  - 말하기 - 작성중
-  - 동료를 위한 개발 - 작성중
 
 - [ETC](ETC/)
 
