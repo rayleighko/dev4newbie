@@ -27,52 +27,51 @@
 
 - [Common](COMMON/)
 
-  - Google Search Guideline
-  - Shell
-  - Git
-  - Editor with IDE
-  - OOP
-  - Design pattern
-  - Restful API
-  - Functional Programming
-  - TDD
-  - DDD
+- Troubleshooting(문제 추적)
+- Implementation(구현) - 작성중
+- Configuration Management(형상 관리) with Git - 작성중
+- Efficient Development(효율적인 개발) - 작성중
+- Object-oriented Programming(객체 지향 프로그래밍) - 작성중
+- Function-oriented Programming
+- Test-driven Development(테스트 주도 개발) - 작성중
+- Domain-driven Development(도메인 주도 개발) - 작성중
+- Application Programming Interface(API, 응용 프로그램 프로그래밍 인터페이스) - 작성중
 
 - [PS(Problem Solving)](PS/)
 
-  - Coding Test Tips(작성중)
+  - Coding Test Tips - 작성중
   - How to study Problem Solving?
 
 - [CS(Computer Science)](CS/)
 
-  - Data Structure(작성중)
-  - Network(작성중)
-  - Operating System(작성중)
-  - Database(작성중)
-  - Design Pattern(작성중)
+  - Data Structure - 작성중
+  - Network - 작성중
+  - Operating System - 작성중
+  - Database - 작성중
+  - Design Pattern - 작성중
 
 - [WEB](WEB/)
 
-  - HTML(작성중)
-  - CSS(작성중)
-  - Javascript(작성중)
-  - Advanced Typescript(작성중)
-  - Web UI Tools(작성중)
-  - Advanced React(작성중)
-  - Web Browser(작성중)
-  - Advanced Chrome Dev tools(작성중)
+  - HTML - 작성중
+  - CSS - 작성중
+  - Javascript - 작성중
+  - Advanced Typescript - 작성중
+  - Web UI Tools - 작성중
+  - Advanced React - 작성중
+  - Web Browser - 작성중
+  - Advanced Chrome Dev tools - 작성중
 
 - [SOFT SKILL](SOFTSKILL/)
 
-  - 글쓰기(작성중)
-  - 말하기(작성중)
-  - 동료를 위한 개발(작성중)
+  - 글쓰기 - 작성중
+  - 말하기 - 작성중
+  - 동료를 위한 개발 - 작성중
 
 - [ETC](ETC/)
 
-  - English(작성중)
-  - Web related Open source(작성중)
-  - Cloud for FE(작성중)
-  - Docker(작성중)
-  - NginX(작성중)
+  - English - 작성중
+  - Web related Open source - 작성중
+  - Cloud for FE - 작성중
+  - Docker - 작성중
+  - NginX - 작성중
   - front-end-handbook-2019

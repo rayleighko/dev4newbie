@@ -6,21 +6,21 @@
   - Translation(번역)
   - Replace in technical terms(기술적인 용어로 치환하기)
   - Problem solving with Datastructure, Algorithm(문제 해결)
-- Implementation(구현)
-- Configuration Management(형상 관리) with Git
+- Implementation(구현) - 작성중
+- Configuration Management(형상 관리) with Git - 작성중
   - Git
   - Git's Workflow
-- Efficient Development(효율적인 개발)
+- Efficient Development(효율적인 개발) - 작성중
   - Integrated Development Environment(IDE, 통합 개발 환경)
   - automation(자동화)
-- Object-oriented Programming(객체 지향 프로그래밍)
+- Object-oriented Programming(객체 지향 프로그래밍) - 작성중
   - Modularization(모듈화)
   - Encapsulation(캡슐화)
 - Function-oriented Programming
-- Test-driven Development(테스트 주도 개발)
+- Test-driven Development(테스트 주도 개발) - 작성중
   - 테스트 코드 작성 요령
-- Domain-driven Development(도메인 주도 개발)
-- Application Programming Interface(API, 응용 프로그램 프로그래밍 인터페이스)
+- Domain-driven Development(도메인 주도 개발) - 작성중
+- Application Programming Interface(API, 응용 프로그램 프로그래밍 인터페이스) - 작성중
   - Rest API
   - GraphQL API
 
