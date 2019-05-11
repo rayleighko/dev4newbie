@@ -31,6 +31,7 @@
 - [Common](COMMON/)
 
   - Troubleshooting(문제 추적)
+  - Design(설계)
   - Implementation(구현) - 작성중
   - Configuration Management(형상 관리) with Git - 작성중
   - Efficient Development(효율적인 개발) - 작성중
