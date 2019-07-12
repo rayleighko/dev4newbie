@@ -1,6 +1,6 @@
-# doMemorize 🧠
+# feGuideline2019  🧠
 
-이해하지 못하면 외워라! for Junior Web FE(Front-end) Engineer.
+지름길보다는 정석으로 성장하려는 어느 Front-end Engineer의 학습 기록입니다. 일이 바쁘지 않을 때 자기 개발 혹은 정보 공유 목적으로 작성됩니다.
 
 ## 들어가기 전에 ✋
 
