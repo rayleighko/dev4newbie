@@ -62,7 +62,11 @@ Recent edit: 2019. Dec. 13
   - 말하기 - 작성중
   - 동료를 위한 개발 - 작성중
 
-- [WEB](WEB/)
+- [DESIGN](DESIGN/)
+  - UI - 작성중
+  - UX - 작성중
+
+- [WEB PROGRAMMING](WEB_PROGRAMMING/)
 
   - HTML - 작성중
   - CSS - 작성중
