@@ -1,3 +1,6 @@
 [submodule "git4newbie"]
 	path = git4newbie
 	url = https://github.com/rayleighko/git4newbie.git
+[submodule "web4newbie"]
+	path = web4newbie
+	url = https://github.com/rayleighko/web4newbie.git
