@@ -57,9 +57,9 @@ Recent edit: 2019. Dec. 25 Merry Christmas!🎅
   - UI - 작성중
   - UX - 작성중
 
-- [WEB PROGRAMMING](web4newbie/)
+- [WEB PROGRAMMING](https://github.com/rayleighko/web4newbie)
 
-- [Configuration Management(형상 관리) with Git](git4newbie)
+- [Configuration Management(형상 관리) with Git](https://github.com/rayleighko/git4newbie)
 
 - [ETC](ETC/)
 
